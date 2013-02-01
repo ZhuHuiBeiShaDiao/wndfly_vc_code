@@ -1,0 +1,31 @@
+﻿生成启动时间为 2011-3-24 18:22:07。
+     1>项目“E:\project\VC++\PPSUpLoadOver\HookSendTo\HookSendTo.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\HookSendTo.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\HookSendTo.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D HOOKSENDTO_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\HookSendTo.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D HOOKSENDTO_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D HOOKSENDTO_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\HookSendTo.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HookSendTo.cpp
+         HookSendTo.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\project\VC++\PPSUpLoadOver\Release\HookSendTo.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"HookSendTo.def" /MANIFEST /ManifestFile:"Release\HookSendTo.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\project\VC++\PPSUpLoadOver\Release\HookSendTo.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\project\VC++\PPSUpLoadOver\Release\HookSendTo.lib" /MACHINE:X86 /DLL Release\dllmain.obj
+         Release\HookSendTo.obj
+         Release\stdafx.obj
+            正在创建库 E:\project\VC++\PPSUpLoadOver\Release\HookSendTo.lib 和对象 E:\project\VC++\PPSUpLoadOver\Release\HookSendTo.exp
+         正在生成代码
+         已完成代码的生成
+         HookSendTo.vcxproj -> E:\project\VC++\PPSUpLoadOver\Release\HookSendTo.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\project\VC++\PPSUpLoadOver\Release\HookSendTo.dll;#2" /manifest Release\HookSendTo.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\HookSendTo.unsuccessfulbuild”。
+         正在对“Release\HookSendTo.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\project\VC++\PPSUpLoadOver\HookSendTo\HookSendTo.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.20

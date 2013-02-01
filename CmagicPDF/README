@@ -1,0 +1,7 @@
+Cmagic PDF genrate Tool
+
+Development environment:
+  Visual Studio 2010
+  
+run require dll:
+   pdflib.dll

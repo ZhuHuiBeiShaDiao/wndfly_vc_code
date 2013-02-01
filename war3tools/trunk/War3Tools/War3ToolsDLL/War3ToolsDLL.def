@@ -1,0 +1,4 @@
+EXPORTS
+	ReadReg
+	WriteReg
+	DelReg

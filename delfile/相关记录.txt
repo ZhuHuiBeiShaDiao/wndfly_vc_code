@@ -1,0 +1,42 @@
+C:\WINDOWS\powerplayer.ini
+C:\WINDOWS\psnetwork.ini
+C:\WINDOWS\Powerlist.ini
+C:\Documents and Settings\All Users\桌面\PPS影音.lnk
+C:\Documents and Settings\All Users\「开始」菜单\程序\PPS 影音.lnk
+C:\Documents and Settings\All Users\「开始」菜单\程序\PPStream
+C:\Program Files\PPSGame
+C:\Documents and Settings\wndflywang\Application Data\ppStream
+
+
+http://stat.ppstream.com/player_stat/?clt=&id=XCWG7W46P2WISAMTSOT7JLWFKAKUEW2O&src=&autostart=1&err=1&livenet=1.1.0.2635&vodnet=1.0.11.390&powerplayer=2.3.550.2230&powerlist=6.0.0.1340&fds=1.0.0.107&pp2play=1.3.2.302&exe=PPStream.exe&exe
+
+0308EF14    0327C2F8  ASCII "Accept: */*",CR,LF,"User-Agent: Powerplayer/1.0",CR,LF,"Host:stat.ppstream.com",CR,LF,"Connection: close",CR,LF
+
+0308EF18    03277950  ASCII "http://stat.ppstream.com/player_stat/?lclt=&id=XCWG7W46P2WISAMTSOT7JLWFKAKUEW2O&src=&autostart=1&err=1&livenet=1.1.0.2635&vodnet=1.0.11.390&powerplayer=2.3.550.2230&powerlist=6.0.0.1340&fds=1.0.0.107&pp2play=1.3.2.302&exe=PPStream.exe&exe"...
+
+0308F540    01C64C7C  ASCII "http://br.pps.tv/br_msg.zip"
+
+012CF748    02ED0EF0  ASCII "/action/view.php?an=114767&oc=25647&ref=logo"
+
+http://stat.ppstream.com/action/view.php?an=114767&oc=25647&ref=logo
+
+0&livenet=1.1.0.2635&vodnet=1.0.11.390&powerplayer=2.3.550.2230&powerlist=6.0.0.1340&fds=1.0.0.107&pp2play=1.3.2.302&exe=PPStream.exe&exever=2.7.0.1226&vodres=1.0.11.390&psclg=&mlist=&lstat=&ppssg=&listload=0&xmltime=0&fixxmltime=0&flash
+
+http://stat.ppstream.com/player_stat/?lclt=&id=XCWG7W46P2WISAMTSOT7JLWFKAKUEW2O&src=&autostart=1&err=1&PPStream.exe=2.7.0.1226&PPSAP.exe : 1.0.11.296
+PowerPlayer.dll : 2.3.550.2230
+PowerList.ocx : 6.0.0.1340
+PSNetwork.dll : 1.1.0.2688
+fds.dll : 1.0.0.107
+Vodnet.dll : 1.0.11.390
+Vodres.dll : 1.0.11.390
+Livenet2.dll : 1.1.0.2635
+Livenet3.dll : 1.1.11.1270
+pfvplayer.dll : 1.0.0.61
+LPlayer.dll : 1.0.0.61
+pp2play.dll : 1.3.2.302
+FlashPlayDll.dll : 9.8.6.28
+MediaList.ocx : 1.0.0.1170
+ppsimage.dll : 2.0.0.1001
+
+Media目录
+
